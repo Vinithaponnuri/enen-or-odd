@@ -1,0 +1,11 @@
+programme:
+a = int (input ("Enter any number to test whether it is odd or even: "))
+if (a % 2) == 0:
+            print(a,"is even")
+else:
+            print(a,"is odd")
+Output:
+
+Enter any number to test whether it is odd or even:20
+a is even
+
